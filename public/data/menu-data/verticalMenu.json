@@ -1,0 +1,285 @@
+{
+  "menu": [
+    {
+      "url": "dashboard",
+      "name": "Dashboards",
+      "icon": "home",
+      "slug": "dashboard",
+      "user_type": "1"
+    },
+    {
+      "url": "dashboard",
+      "name": "Dashboards",
+      "icon": "home",
+      "slug": "dashboard",
+      "user_type": "2"
+    },
+    {
+      "url": "dashboard",
+      "name": "Dashboards",
+      "icon": "home",
+      "slug": "dashboard",
+      "user_type": "3"
+    },
+    {
+      "url": "dashboard",
+      "name": "Dashboards",
+      "icon": "home",
+      "slug": "dashboard",
+      "user_type": "4"
+    },
+    {
+      "url": "users/list",
+          "name": "User List",
+          "icon": "user",
+          "slug": "users*",
+          "user_type": "1"
+    },
+    {
+      "url": "device/list/0",
+      "name": "Device List",
+      "icon": "smartphone",
+      "slug": "device*",
+      "user_type": "1"
+    },
+    {
+      "url": "device/list/0",
+      "name": "My Devices",
+      "icon": "smartphone",
+      "slug": "device*",
+      "user_type": "2"
+    },
+    {
+      "url": "device/list/0",
+      "name": "My Devices",
+      "icon": "smartphone",
+      "slug": "device*",
+      "user_type": "3"
+    },
+    {
+      "url": "device/list/0",
+      "name": "My Devices",
+      "icon": "smartphone",
+      "slug": "device*",
+      "user_type": "4"
+    },
+    {
+      "url": "dns/list",
+      "name": "DNS",
+      "icon": "server",
+      "slug": "dns*",
+      "user_type": "2"
+    },
+    {
+      "url": "dns/list",
+      "name": "DNS",
+      "icon": "server",
+      "slug": "dns*",
+      "user_type": "3"
+    },
+    {
+      "url": "dns/list",
+      "name": "DNS",
+      "icon": "server",
+      "slug": "dns*",
+      "user_type": "4"
+    },
+    {
+      "url": "playlist/list",
+      "name": "Playlist",
+      "icon": "play",
+      "slug": "playlist*",
+      "user_type": "1"
+    },
+    {
+      "url": "playlist/list",
+      "name": "Playlist",
+      "icon": "play",
+      "slug": "playlist*",
+      "user_type": "2"
+    },
+    {
+      "url": "playlist/list",
+      "name": "Playlist",
+      "icon": "play",
+      "slug": "playlist*",
+      "user_type": "3"
+    },
+    {
+      "url": "playlist/list",
+      "name": "Playlist",
+      "icon": "play",
+      "slug": "playlist*",
+      "user_type": "4"
+    },
+    {
+      "url": "invoice/list",
+      "name": "Invoice List",
+      "icon": "file-text",
+      "slug": "invoice*",
+      "user_type": "2"
+    },
+    {
+      "url": "invoice/list",
+      "name": "Invoice List",
+      "icon": "file-text",
+      "slug": "invoice*",
+      "user_type": "3"
+    },
+    {
+      "url": "invoice/list",
+      "name": "Invoice List",
+      "icon": "file-text",
+      "slug": "invoice*",
+      "user_type": "4"
+    },
+    {
+      "url": "invoice/list",
+      "name": "Invoice List",
+      "icon": "file-text",
+      "slug": "invoice*",
+      "user_type": "1"
+    },
+    {
+      "url": "credits/list",
+      "name": "Credits History",
+      "icon": "credit-card",
+      "slug": "credits*",
+      "user_type": "2"
+    },
+    {
+      "url": "credits/list",
+      "name": "Credits History",
+      "icon": "credit-card",
+      "slug": "credits*",
+      "user_type": "3"
+    },
+    
+    {
+      "url": "coupon/list",
+      "name": "Coupons List",
+      "icon": "tag",
+      "slug": "coupon*",
+      "user_type": "1"
+    },
+    {
+      "url": "credits/list",
+      "name": "Credits History",
+      "icon": "credit-card",
+      "slug": "credits*",
+      "user_type": "1"
+    },
+    {
+      "url": "setting",
+          "name": "Setting",
+          "icon": "settings",
+          "slug": "setting",
+          "user_type": "1"
+    },
+    {
+      "url": "systemSetting",
+      "name": "System Setting",
+      "icon": "settings",
+      "slug": "site*",
+      "user_type": "1"
+    },
+    {
+      "url": "users/list",
+          "name": "User List",
+          "icon": "user",
+          "slug": "users*",
+          "user_type": "3"
+    },
+  
+    {
+      "url": "my-profile",
+      "name": "Account Setting",
+      "icon": "settings",
+      "slug": "",
+      "user_type": "2",
+      "submenu": [
+        {
+          "url": "my-profile",
+          "name": "My Profile",
+          "slug": "my-profile",
+          "icon": "user",
+          "user_type": "2"
+        },
+        {
+          "url": "change-password",
+          "name": "Change Password",
+          "slug": "change-password",
+          "icon": "lock",
+          "user_type": "2"
+        }
+      ]
+    },
+    {
+      "url": "my-profile",
+      "name": "Account Setting",
+      "icon": "settings",
+      "slug": "",
+      "user_type": "3",
+      "submenu": [
+        {
+          "url": "my-profile",
+          "name": "My Profile",
+          "slug": "my-profile",
+          "icon": "user",
+          "user_type": "3"
+        },
+        {
+          "url": "change-password",
+          "name": "Change Password",
+          "slug": "change-password",
+          "icon": "lock",
+          "user_type": "3"
+        }
+      ]
+    },
+    {
+      "url": "my-profile",
+      "name": "Account Setting",
+      "icon": "settings",
+      "slug": "",
+      "user_type": "4",
+      "submenu": [
+        {
+          "url": "my-profile",
+          "name": "My Profile",
+          "slug": "my-profile",
+          "icon": "user",
+          "user_type": "4"
+        },
+        {
+          "url": "change-password",
+          "name": "Change Password",
+          "slug": "change-password",
+          "icon": "lock",
+          "user_type": "4"
+        }
+      ]
+    },
+     {
+      "url": "subscription/plan",
+          "name": "Subscription Plan",
+          "icon": "package",
+          "slug": "subscription/plan",
+          "user_type": "1"
+    },
+    {
+      "url": "subscription/plan",
+          "name": "Subscription Plan",
+          "icon": "package",
+          "slug": "subscription/plan",
+          "user_type": "2"
+    },
+    {
+      "url": "subscription/plan",
+          "name": "Subscription Plan",
+          "icon": "package",
+          "slug": "subscription/plan",
+          "user_type": "3"
+    }
+  ]
+}
